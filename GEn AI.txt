@@ -1,0 +1,24 @@
+Managing and owning all aspects of technical development and delivery
+Understanding requirements and writing technical architecture documents
+Ensuring the code reviews and development best practices / processes to be followed
+Planning end-to-end technical scope of the project and customer engagement areas, including planning sprint and deliveries
+Estimating efforts, identifying risks, and providing technical support whenever needed
+Demonstrating the ability to multitask and re-prioritizing responsibilities based on dynamic requirements
+Leading and mentoring small-sized teams
+ 
+
+Skills required to contribute:
+
+•              Manage the deployment and lifecycle of AI models for use cases such requiring use of Virtual Agents, Chatbots and other multimodal GenAI capabilities.
+
+•              Implement CI/CD pipelines for AI/ML models, ensuring they are properly versioned, tested, and deployed to production environments.
+
+•              Monitor AI/ML models in production, tracking performance metrics and adjusting models as needed to maintain accuracy and efficiency.
+
+•              Optimize AI models and pipelines to ensure they meet business KPI, improvement in productivity, and automation goals.
+
+•              Collaborate with data engineers to ensure data pipelines are stable and support ongoing AI model training and updates.
+
+•              Troubleshoot issues related to AI/ML models, ensuring high availability and reliability of models in production environments.
+
+•              Implement security and compliance protocols for AI/ML models, particularly in customer data handling and fraud detection scenarios.
